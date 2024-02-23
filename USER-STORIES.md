@@ -32,7 +32,7 @@ This is a backlog of user stories for INKsmith, an AI writing assistant and crea
 2. As a writer, I want syntax suggestions so that my sentences flow better.
 3. As a writer, I want the assistant to provide word choice suggestions that ensure consistency in my tone
 
-## Publicity and Reader Engagement
+### Publicity and Reader Engagement
 
 1. As a writer, I want the assistant to provide potential pitches for my story based on my plot outline
 2. As a writer, I want to collect the readers’ reaction (comments, thumbs-up) to my work across platforms in one place for further analytics
