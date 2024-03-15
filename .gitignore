@@ -12,11 +12,11 @@ hugo.linux
 .hugo_build.lock
 
 # Hugo-generated directory
-/landing/public/
+/public/
 
 # Dependency directories (remove if you track dependencies)
 /node_modules/
-/landing/resources/_gen/
+/resources/_gen/
 /themes/*/resources/_gen/
 
 # Hugo cache (since Hugo v0.82.0)
